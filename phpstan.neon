@@ -1,6 +1,5 @@
 includes:
     - ./vendor/nunomaduro/larastan/extension.neon
-    - ./vendor/yamadashy/phpstan-formatter-friendly/extension.neon
 
 parameters:
 
